@@ -1,0 +1,25 @@
+{
+    "venvPath": ".",
+    "venv": ".venv",
+    "pythonVersion": "3.11",
+    "pythonPlatform": "Darwin",
+    "include": [
+        "."
+    ],
+    "exclude": [
+        ".venv",
+        "**/__pycache__",
+        "checkpoints"
+    ],
+    "extraPaths": [
+        "."
+    ],
+    "useLibraryCodeForTypes": true,
+    "reportMissingImports": "none",
+    "reportMissingModuleSource": "none",
+    "reportUnknownVariableType": "none",
+    "reportUnknownMemberType": "none",
+    "reportUnknownArgumentType": "none",
+    "reportGeneralTypeIssues": "none",
+    "typeCheckingMode": "off"
+}

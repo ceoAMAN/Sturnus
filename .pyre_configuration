@@ -1,0 +1,15 @@
+{
+    "site_package_search_strategy": "pep503",
+    "source_directories": ["."],
+    "search_path": [
+        ".",
+        ".venv/lib/python3.11/site-packages"
+    ],
+    "python_version": "3.11",
+    "strict": false,
+    "exclude": [
+        ".venv",
+        "__pycache__",
+        "checkpoints"
+    ]
+}
